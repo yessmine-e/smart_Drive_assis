@@ -1,0 +1,10 @@
+{
+  "speed_kmh": 60.0,
+  "outside_temp_c": 25.0,
+  "cabin_temp_c": 24.0,
+  "battery_level_percent": 90.0,
+  "advices": [
+    "Conditions are normal. No specific advice."
+  ],
+  "label": 0
+}
