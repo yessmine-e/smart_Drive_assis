@@ -1,9 +1,7 @@
 Project overview
-The system simulates EV driving conditions on a PC, streams the signals to an Android app, and uses a TensorFlow Lite model plus rule‑based logic to provide comfort, safety, and energy‑saving advice to the driver in real time.
+The system simulates EV driving conditions, streams the signals to an Android app, and uses a TensorFlow Lite model plus rule‑based logic to provide comfort, safety, and energy‑saving advice to the driver in real time.
 ​
 
-Main components
-C++ vehicle simulator (PC)
 
 Generates realistic vehicle signals: speed, outside temperature, cabin temperature, battery state of charge.
 
